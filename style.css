@@ -1,0 +1,15 @@
+.header__img{
+    width: 100vw;
+    height: 100vh;
+    object-fit: cover;
+    
+   
+
+}
+.header {
+    
+}
+.container{
+    width: 80%;
+    margin: auto;
+}
